@@ -1,0 +1,2 @@
+# StaticWebServerByPyhton
+这是一个用Python制作的基础静态Web服务器，里面有各种Web服务器的实现
